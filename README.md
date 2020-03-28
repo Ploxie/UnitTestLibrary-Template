@@ -1,4 +1,4 @@
-# UnitTest-Template
+# UnitTestLibrary-Template
 
 A very simple template I made to use in creating static libraries
 
